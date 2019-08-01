@@ -1,0 +1,17 @@
+{
+  "name": "camel_snake",
+  "version": "1.0.0",
+  "description": "Converts strings between camelCase, PascalCase, snake_case and SHOUT_CASE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "camelCase",
+    "PascalCase",
+    "snake_case",
+    "SHOUT_CASE"
+  ],
+  "author": "Ruthenium Maxwell",
+  "license": "ISC"
+}
